@@ -16,7 +16,7 @@ permalink: /projects/cvo-east-ayrshire/
 warning-end: DO NOT EDIT ABOVE THIS LINE
 ---
 
-## Project plan
+## TrasmIT
 
 ### Project description
 
@@ -27,23 +27,26 @@ We want to help lower that number within East Ayshire for charities and other co
 
 ## Project milestones
 
-### Phase 1 February 2015
+### Phase 1 April 2015
 
-Development of course content and evaluation
+With the purchase of our equipment and the support of Lewis, our new Informations Systems Assistant we've got a set up ready to deliver training and Lewis is working on writing some training materials that we'll use to train our trainers who will initially be volunteers from our seniors hub group.
 
-Recruitment and training of volunteers to deliver training
+### Phase 2 May 2015
 
-### Phase 2 March 2015
+Lewis now has seven workbooks ready to go.  We're going to be uploading these to be shared with any of the other projects who would like to use them
 
-Marketing materials produced to promote course
-
-### Phase 3 April 2015 onwards
+### Phase 3 June 2015 onwards
 
 Ten courses to be delivered of 8 hours (6-10 participants on each course)
 
 Ongoing support to be arranged on an individual basis
 
 Evaluation report to be compiled. Evaluations to show that participants report increased confidence in their ability to promote their organisations online. 
+
+Our first train the trainers session!
+Photos will follow shortly.
+
+
 
 ## Evaluation
 
